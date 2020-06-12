@@ -1,12 +1,11 @@
 # Mac Window Layout Tiles
 
-Keyboard friendly window layouts for MacOS.
+Keyboard friendly window layouts for MacOS based on http://projects.jga.me/layouts/ by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
 
 [Layouts.alfredworkflow](Layouts.alfredworkflow) provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
 
 <img src="screenshot.png" alt="screenshot" style="zoom:50%;" />
 
-Based on http://projects.jga.me/layouts/ by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
 
 There are other apps that do similar things ([Moom](https://manytricks.com/moom/) , https://setapp.com/apps/mosaic) but this is free, keyboard shortcut only, and integrates with Alfred with simple clean code.
 
