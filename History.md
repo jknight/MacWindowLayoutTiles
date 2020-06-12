@@ -1,4 +1,5 @@
-## 3.0.0 / 2020-06-12 (jknight)
+3.0.0 / 2020-06-12 (jknight)
+==================
 
 - Moved all code into osacript (it was previously calling out to layouts.scpt
 - Removed all grunt/dist/lib/etc files in favor of single workflow file
