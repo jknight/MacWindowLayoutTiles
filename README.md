@@ -2,7 +2,7 @@
 
 Keyboard friendly window layouts for MacOS based on [Layouts](http://projects.jga.me/layouts) by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
 
-[Layouts.alfredworkflow](Layouts.alfredworkflow) provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
+[Layouts.alfredworkflow](Layouts.alfredworkflow) provides a simple [Alfred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
 
 <img src="screenshot.png" alt="screenshot" style="zoom:50%;" />
 
