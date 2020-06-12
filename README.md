@@ -1,6 +1,6 @@
 # Mac Window Layout Tiles
 
-Keyboard friendly window layouts for MacOS based on http://projects.jga.me/layouts/ by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
+Keyboard friendly window layouts for MacOS based on [Layouts](http://projects.jga.me/layouts) by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
 
 [Layouts.alfredworkflow](Layouts.alfredworkflow) provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
 
