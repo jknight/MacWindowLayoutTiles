@@ -2,7 +2,7 @@
 
 Keyboard friendly window layouts for MacOS.
 
-``Layouts.alfredworkflow` provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
+[Layouts.alfredworkflow](Layouts.alfredworkflow) provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
 
 <img src="screenshot.png" alt="screenshot" style="zoom:50%;" />
 
@@ -12,10 +12,10 @@ There are other apps that do similar things ([Moom](https://manytricks.com/moom/
 
 ### Install
 
-- Download `Layouts.alfredworkflow`
-- Double click to open in Alfred and add as a workflow.
-- Right click->enabled
-- Done
+- Download [Layouts.alfredworkflow](Layouts.alfredworkflow) 
+- Open Alfred to add as a workflow.
+- Right click the workflow to ensure it's enabled 
+- Enjoy keyboard bliss
 
 ### Keyboard Shortcuts
 
