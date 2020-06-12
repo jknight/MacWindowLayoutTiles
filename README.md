@@ -4,7 +4,7 @@ Keyboard friendly window layouts for MacOS.
 
 ``Layouts.alfredworkflow` provides a simple [Aldred](https://www.alfredapp.com/) worklow for positioning and sizing windows with keyboard shortcuts.
 
-![Screen Shot 2020-06-12 at 1.29.34 PM](/Users/jknight/Screenshots/Screen Shot 2020-06-12 at 1.29.34 PM.png)
+<img src="screenshot.png" alt="screenshot" style="zoom:50%;" />
 
 Based on http://projects.jga.me/layouts/ by Greg Allen ([@jgaui](http://twitter.com/jgaui)) [jga.me](http://jga.me) 
 
@@ -19,7 +19,7 @@ There are other apps that do similar things ([Moom](https://manytricks.com/moom/
 
 ### Keyboard Shortcuts
 
-<img src="/Users/jknight/Code/layouts/layouts.png" alt="image-20200612140112726" style="zoom:50%;" />
+<img src="layouts.png" alt="layouts" style="zoom:50%;" />
 
 ### Configure
 
@@ -29,7 +29,7 @@ You can change the key mappings and window sizings and placements to define any 
 
 The x1,x2,y1,y2 convention from the original Layouts workflow is tricky to get right. Notes from the original layout convention have been added as a note in the workflow.
 
-<img src="/Users/jknight/Code/layouts/configure.png" alt="Screen Shot 2020-06-12 at 1.33.55 PM" style="zoom:50%;" />
+<img src="configure.png" alt="configure" style="zoom:50%;" />
 
 ### TODO
 
