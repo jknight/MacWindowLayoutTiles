@@ -19,7 +19,7 @@ There are other apps that do similar things ([Moom](https://manytricks.com/moom/
 
 ### Keyboard Shortcuts
 
-<img src="layouts.png" alt="layouts" style="height:400px;" />
+<img src="layouts.png" alt="layouts" style="zoom:40%;" />
 
 ### Configure
 
