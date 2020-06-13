@@ -1,3 +1,6 @@
+## 3.0.1 / 2020-06-13 (jknight)
+- Updated to 60/40 split
+
 ## 3.0.0 / 2020-06-12 (jknight)
 
 - Moved all code into osacript (it was previously calling out to layouts.scpt
